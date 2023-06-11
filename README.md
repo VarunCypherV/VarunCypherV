@@ -17,14 +17,13 @@
 
 <!-- Skills and Technologies -->
 ## 💼 Skills & Technologies
-- Languages: Python, JavaScript, Java
+- Languages: Python, JavaScript, Java , Flask , C , C++
 - Web Development: HTML, CSS, React, Node.js
+- App Developement : React Native
 - Databases: MySQL, MongoDB
 - Version Control: Git, GitHub
-- CI/CD: Travis CI, Jenkins
-- Testing: Jest, Pytest
-- DevOps: Docker, Kubernetes
-- Cloud Platforms: AWS, Azure
+- DevOps: Docker
+- Cloud Platforms: -
 
 <!-- Recent activity -->
 ## ⚡ Recent Activity
