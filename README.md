@@ -10,10 +10,9 @@
 
 <!-- Your achievements -->
 ## 🏆 Achievements
-- 🌟 Featured Developer on GitHub Showcase
-- 🚀 Completed 500+ GitHub contributions
-- 📚 Contributed to 10+ open-source projects
-- 🏅 Received the GitHub Open Source Contributor badge
+-
+-
+-
 
 <!-- Skills and Technologies -->
 ## 💼 Skills & Technologies
