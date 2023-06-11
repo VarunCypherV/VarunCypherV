@@ -4,7 +4,7 @@
 
 <!-- Dynamic GitHub contribution graph -->
 ![Your Name's GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=VarunCypherV&theme=github)
-
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunCypherV)](https://github.com/VarunCypherV)
 
 <!-- Your achievements -->
 ## 🏆 Achievements
