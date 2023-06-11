@@ -5,14 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varuncypherv" alt="varuncypherv" /></a> </p>
 
+- 🔭 I’m currently working on **Next Js Whatsapp based chat app**
+
+- 🌱 I’m currently learning **Deep learning - Machine learning -Neural netwoks**
+
+- 👯 I’m looking to collaborate on **any fun project prospect**
+
+- 💬 Ask me about **Full stack dev and data science**
+
+- 📫 How to reach me **varunvk2004@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xx" height="30" width="40" /></a>
-<a href="https://instagram.com/xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/xx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="xx" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xx" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="xx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varunvetrivendan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunvetrivendan" height="30" width="40" /></a>
+<a href="https://instagram.com/dr_instanomics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dr_instanomics" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/varun vetrivendan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varun vetrivendan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/varunvk2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunvk2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
