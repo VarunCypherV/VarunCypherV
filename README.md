@@ -4,7 +4,9 @@
 
 <!-- Dynamic GitHub contribution graph -->
 
-![Snake game](https://github.com/VarunCypherV/VarunCypherV/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake game contribution graph -->
+![Snake game](https://raw.githubusercontent.com/VarunCypherV/VarunCypherV/output/github-contribution-grid-snake.svg)
+
 
 <!-- Your achievements -->
 ## 🏆 Achievements
