@@ -1,12 +1,4 @@
 <!--horizontal divider(gradiant)-->
- # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: ${{ github.VarunCypherV }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
