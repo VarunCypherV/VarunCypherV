@@ -3,8 +3,7 @@
 ### Software Engineer | Open Source Enthusiast
 
 <!-- Dynamic GitHub contribution graph -->
-![Your Name's GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=VarunCypherV&theme=github)
-![Your Name's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VarunCypherV&theme=github)
+
 
 <!-- Your achievements -->
 ## 🏆 Achievements
@@ -39,7 +38,7 @@
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunCypherV&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunCypherV&show_icons=true&theme=tokyonight)
 
 <!-- Top Programming Languages -->
 ## 🔝 Top Programming Languages
