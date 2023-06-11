@@ -4,11 +4,7 @@
 
 <!-- Dynamic GitHub contribution graph -->
 
-<div align="center">
-  <a href="https://1999azzar.github.io/VarunCypherV/">
-  <img  src="https://github.com/VarunCypherV/VarunCypherV/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![Snake game](https://github.com/VarunCypherV/VarunCypherV/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Your achievements -->
 ## 🏆 Achievements
