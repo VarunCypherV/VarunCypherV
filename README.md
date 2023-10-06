@@ -82,8 +82,11 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=varuncypherv&" alt="varuncypherv" /></p>
 </div>
+<br>
+<div>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varuncypherv&show_icons=true&locale=en&layout=compact" alt="varuncypherv" /></p>
+</div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varuncypherv&show_icons=true&locale=en&layout=compact" alt="varuncypherv" /></p>
 
 </div>
