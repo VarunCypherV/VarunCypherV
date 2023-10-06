@@ -15,10 +15,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/varunvetrivendan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunvetrivendan" height="30" width="40" /></a>
 <a href="https://instagram.com/dr_instanomics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dr_instanomics" height="30" width="40" /></a>
-
-
------
-
+<br>
+<hr>
+<br>
 <h3 align="left">Languages and Tools:</h3> 
 
 <p align="left">FRONT END DEVELOPMENT</p>
@@ -70,7 +69,9 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </div> 
-
+<br>
+<hr>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varuncypherv&show_icons=true&locale=en&layout=compact" alt="varuncypherv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varuncypherv&show_icons=true&locale=en" alt="varuncypherv" /></p>
