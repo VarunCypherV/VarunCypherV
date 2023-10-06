@@ -75,12 +75,15 @@
 <br>
 <hr>
 <br>
-<div>
-    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=varuncypherv&show_icons=true&locale=en" alt="varuncypherv" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=varuncypherv&" alt="varuncypherv" /></p>
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=varuncypherv&show_icons=true&locale=en" alt="varuncypherv" />
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuncypherv&" alt="varuncypherv" />
+    </div>
 </div>
+
 <br>
 
 
